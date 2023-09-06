@@ -15,3 +15,15 @@ body {
     color: #222;
     font-size: 1rem;
 }
+
+.temperature-converter {
+    background-color: white;
+    width: 100%;
+    min-width: 320px;
+    padding: 20px 25px 45px;
+    border-radius: 5px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
