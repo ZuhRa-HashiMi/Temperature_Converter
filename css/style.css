@@ -27,3 +27,12 @@ body {
     flex-direction: column;
     justify-content: center;
 }
+
+.mobile {
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    font-weight: 700;
+    align-items: center;
+    margin-bottom: 40px;
+}
